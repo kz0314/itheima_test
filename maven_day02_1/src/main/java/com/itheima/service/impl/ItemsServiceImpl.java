@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class ItemsServiceImpl implements ItemsService {
 
-    @Autowire
+    @Autowired
     private ItemsDao itemsDao;
     public Items findById(Integer id) {
         return null;
