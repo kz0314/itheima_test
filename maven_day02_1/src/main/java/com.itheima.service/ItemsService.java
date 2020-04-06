@@ -7,5 +7,5 @@ import main.java.com.itheima.domain.Items;
  * @Date: 2020/4/5 15:47
  */
 public interface ItemsService {
-    public Items findById(Integer id);
+    public Items findByI
 }
